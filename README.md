@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D522F7&width=435&lines=Welcome+to+Juliocbks'+page!)](https://github.com/juliocbks)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D522F7&width=435&lines=Welcome+to+Juliocbks'+profile!)](https://github.com/juliocbks)
   
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
