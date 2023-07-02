@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D522F7&width=435&lines=Welcome+to+Juliocbks'+profile!)](https://github.com/juliocbks)
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6C249A&width=435&lines=Welcome+to+juliocbks'+profile!" alt="Typing SVG" /></a>
   
-<h3 align="left">>> Languages</h3>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6C249A&width=435&lines=%3E%3E%3ELanguage%3A" alt="Typing SVG" /></a>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> </a>
@@ -11,12 +11,12 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/  </a> 
 </p>
 
-<h3 align="left">>> Tools</h3>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6C249A&width=435&lines=%3E%3E%3ETools%3A" alt="Typing SVG" /></a>
 <p align="left">
   <a href="https://mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" /> </a>
 </p>
   
-<h3 align="left">>> Compilers</h3>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6C249A&width=435&lines=%3E%3E%3ECompilers%3A" alt="Typing SVG" /></a>
 <p align="left">
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
 </p>
