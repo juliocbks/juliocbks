@@ -6,7 +6,7 @@
     <img align="center" src="https://static.wikia.nocookie.net/outerwilds_gamepedia/images/b/b9/Supernova.gif/revision/latest/scale-to-width-down/600?cb=20210624202543">
 </div>
 
-<h3 align="center" style="color:#6c249a">>>> Languages <<<</h3>
+<h3 align="center">@@>>> Languages <<<@@</h3>
 <div align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> </a>
