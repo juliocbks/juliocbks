@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C249A&repeat=false&width=230&lines=%3E%3E%3E+Languages+%3C%3C%3C" alt="Typing SVG" /></a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C249A&repeat=false&width=203&lines=%3E%3E%3E+Languages+%3C%3C%3C" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C249A&repeat=false&width=160&lines=%3E%3E%3E+Tools+%3C%3C%3C" alt="Typing SVG" /></a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C249A&repeat=false&width=155&lines=%3E%3E%3E+Tools+%3C%3C%3C" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -33,5 +33,5 @@
 </div>
 
 <div align="center">
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C249A&repeat=false&width=202&lines=%3E%3E%3E+Compilers+%3C%3C%3C" alt="Typing SVG" /></a>
 </div>
