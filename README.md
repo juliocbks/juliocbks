@@ -1,10 +1,10 @@
 <div align="center">
-     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C249A&width=360&lines=Welcome+to+juliocbks'+profile!" alt="Typing SVG" /></a><br>
-     <img align="center" src="https://static.wikia.nocookie.net/outerwilds_gamepedia/images/b/b9/Supernova.gif/revision/latest/scale-to-width-down/600?cb=20210624202543">
+     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C249A&width=360&lines=Welcome+to+juliocbks'+profile!" alt="Typing SVG" /></a><br>
+     <a href="https://store.steampowered.com/app/753640/Outer_Wilds/" target="_blank" rel="noreferrer"><img align="center" src="https://static.wikia.nocookie.net/outerwilds_gamepedia/images/b/b9/Supernova.gif/revision/latest/scale-to-width-down/600?cb=20210624202543">
 </div>
 
 <div align="center">
-     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C249A&repeat=false&width=203&lines=%3E%3E%3E+Languages+%3C%3C%3C" alt="Typing SVG" /></a><br>
+     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C249A&repeat=false&width=203&lines=%3E%3E%3E+Languages+%3C%3C%3C" alt="Typing SVG" /></a><br>
      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> </a>
      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -15,11 +15,11 @@
 </div>
 
 <div align="center">
-     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C249A&repeat=false&width=155&lines=%3E%3E%3E+Tools+%3C%3C%3C" alt="Typing SVG" /></a><br>
+     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C249A&repeat=false&width=155&lines=%3E%3E%3E+Tools+%3C%3C%3C" alt="Typing SVG" /></a><br>
      <a href="https://mysql.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" /> </a>
 </div>
 
 <div align="center">
-     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C249A&repeat=false&width=202&lines=%3E%3E%3E+Compilers+%3C%3C%3C" alt="Typing SVG" /></a><br>
+     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noreferrer"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C249A&repeat=false&width=202&lines=%3E%3E%3E+Compilers+%3C%3C%3C" alt="Typing SVG" /></a><br>
      <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" /> </a>
 </div>
