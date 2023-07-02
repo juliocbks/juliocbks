@@ -1,7 +1,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=6C249A&width=435&lines=Welcome+to+juliocbks'+profile!" alt="Typing SVG" /></a>
 
 <div align="center">
-    <img align="center" src="https://static.wikia.nocookie.net/outerwilds_gamepedia/images/b/b9/Supernova.gif/revision/latest/scale-to-width-down/600?cb=20210624202543%22%3E>
+    <img align="center" src="https://static.wikia.nocookie.net/outerwilds_gamepedia/images/b/b9/Supernova.gif/revision/latest/scale-to-width-down/600?cb=20210624202543%22%3E></img>
 </div>
 
 <h3>>>>Languages:</h3>
