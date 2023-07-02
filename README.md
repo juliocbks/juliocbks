@@ -1,5 +1,5 @@
 <div align="center">
-     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C249A&width=360&lines=Welcome+to+juliocbks'+profile!" alt="Typing SVG" /></a>
+     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C249A&width=360&lines=Welcome+to+juliocbks'+profile!" alt="Typing SVG" /></a><br>
      <img align="center" src="https://static.wikia.nocookie.net/outerwilds_gamepedia/images/b/b9/Supernova.gif/revision/latest/scale-to-width-down/600?cb=20210624202543">
 </div>
 
