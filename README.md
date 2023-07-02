@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <img align="center" src="https://static.wikia.nocookie.net/outerwilds_gamepedia/images/b/b9/Supernova.gif/revision/latest/scale-to-width-down/600?cb=20210624202543"></img>
+    <img align="center" src="https://static.wikia.nocookie.net/outerwilds_gamepedia/images/b/b9/Supernova.gif/revision/latest/scale-to-width-down/600?cb=20210624202543">
 </div>
 
 <h3>>>>Languages:</h3>
